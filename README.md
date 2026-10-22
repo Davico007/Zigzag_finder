@@ -3,7 +3,7 @@ This code checks for the presence of zigzag(s) in an array of numbers
 
 This code checks for the presence of zigzag(s) in an array which would be inputted by the user on prompt. 
 
-A zigzag involves three numbers in an array, [a,b,c], where a<b>c OR a>b<c.
+A zigzag involves three numbers in an array, [a,b,c], where a< b >c OR a>b<c.
 
 For example, in an array named numbers = [1,2,1,3,4]
 
